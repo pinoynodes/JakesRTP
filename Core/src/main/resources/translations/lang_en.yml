@@ -47,7 +47,7 @@ rtp-settings-must-use-world: 'Input mismatch: RtpSettings "{0}" can only telepor
 need-to-wait-for-cooldown:  'Need to wait for cooldown: {0}'
 # For when a player is waiting  for the warmup before teleporting. (Only gets used if `warmup.time` is greater than 0)
 #   {0} - The number of seconds remaining
-teleporting-in-x-seconds: 'Teleporting in {0} seconds...'
+teleporting-in-x-seconds: 'You will teleport in {0} seconds'
 # For when a player walks during their rtp warmup canceling it. (Only gets used if `warmup.time` is greater than 0)
 moved-during-warmup: 'Movement detected, RTP Canceled.'
 # For when a player is waiting on the warmup and calls `/rtp` again. (Only gets used if `warmup.time` is greater than 0)
